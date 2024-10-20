@@ -1,8 +1,5 @@
-# React + Vite
+# React Jobs Webpage [🌈Demo](https://ssr0095.github.io/React-Jobs/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Jobs Webpage using React & Tailwindcss
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/ff5f2f8b-6da5-4454-9f94-609ed9d7dc8e)
